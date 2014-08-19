@@ -1,0 +1,170 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-2--1331347456
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=810 outsize=1388 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1118 outsize=190 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1118 outsize=1065 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1984 outsize=739 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1984 outsize=2273 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1053 outsize=1542 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1053 outsize=1235 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2756 outsize=8653 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2756 outsize=3575 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2408 outsize=6500 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2408 outsize=1926 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2001 outsize=5964 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2001 outsize=4120 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1528 outsize=2633 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1528 outsize=1983 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2152 outsize=3557 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2152 outsize=3744 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2152 outsize=2403 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1541 outsize=432 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1541 outsize=713 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1541 outsize=1528 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=715 outsize=1674 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=715 outsize=600 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1106 outsize=1591 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1106 outsize=876 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1445 outsize=2054 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1445 outsize=1412 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2697 outsize=5702 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2697 outsize=2493 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2323 outsize=2330 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=2323 outsize=2064 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=795 outsize=1796 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=795 outsize=1008 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=864 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=864 outsize=754 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1960 outsize=2493 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1960 outsize=2680 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1960 outsize=3185 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1972 outsize=809 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1972 outsize=3827 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1972 outsize=2015 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1099 outsize=1040 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1846 outsize=5436 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1846 outsize=3941 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1551 outsize=2998 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1551 outsize=941 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1551 outsize=1307 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=788 outsize=1625 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=788 outsize=1097 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=824 outsize=1958 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=824 outsize=1048 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1042 outsize=1796 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1042 outsize=1284 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1031 outsize=1796 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1031 outsize=770 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=973 outsize=1674 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=973 outsize=943 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=998 outsize=1796 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=998 outsize=943 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=914 outsize=1926 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=914 outsize=1187 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=761 outsize=1796 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=761 outsize=837 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=2053 outsize=5322 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2053 outsize=2290 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=5386 outsize=1707 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=5393 outsize=2584 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=5393 outsize=1991 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=5383 outsize=1967 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5383 outsize=1680 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3981 outsize=990 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3981 outsize=1187 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3978 outsize=2446 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3978 outsize=2186 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3997 outsize=2357 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3997 outsize=1893 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3999 outsize=2357 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3999 outsize=1893 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3994 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3994 outsize=1853 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3986 outsize=2446 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3986 outsize=1615 kw= ok=1
+End of pipe
+
+Quitting shader compiler process
